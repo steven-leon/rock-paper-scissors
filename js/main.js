@@ -15,6 +15,7 @@ let scissorOption = "scissor";
 function reset(){
     user = 0;
     computer = 0;
+    empate = 0;
     userContador.textContent = user;
     userComputer.textContent = computer;
     userOption.textContent = "";
